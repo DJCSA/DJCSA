@@ -17,4 +17,7 @@
 
 ![:DJCSA](https://count.getloli.com/get/@:DJCSA?theme=gelbooru-h)
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+
 
